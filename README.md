@@ -6,7 +6,7 @@
   <hr>
   <h3>𝙝𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚 <img src="https://github.com/user-attachments/assets/8bc146e0-253d-4e57-88d4-a70a44ca213c" width="40"/></h3>
   <h3>I'm 𝗧𝗶𝗺𝗼𝗹𝗶𝗼</h3>
-  A 19-year-old enthusiast who creates games, libraries, and brings to life whatever ideas come to mind and heart
+  A 19-year-old enthusiast who creates games, tools, websites, and brings to life whatever ideas come to mind and heart
   <br><br>
   <hr>
 </div>
